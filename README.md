@@ -13,4 +13,4 @@ Features:
 * Mac-friendly (Command and Option on the thumbs)
 * Vim-friendly (Esc, `:` and Ctrl on the thumbs)
 * Full per-key RGB Matrix support out of the box (you still have to go through the nightmare of soldering yourself though 😉)
-* Luna Fully adopted really thank you HellTM 
+* Luna Fully adopted really thank you HellTM, here's a link for his youtube video https://youtu.be/HgIQRazCAjo
